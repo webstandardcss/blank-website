@@ -3,13 +3,16 @@
 ## Live Example Site using this framework.
 http://gracehouselongview.com/index.php
 
-This commit has blank php files which makes it suitable to these files on your next site
+## This repo has blank php files suitable to use on your next site.
 
+* 16.8KB zip file (The demo image roughly the same size as all of the code)
 * Centralized configuration 
 * Custom page title
 * Custom meta tags for each page
 * Use PHP config variables throughout your pages
 * Open Graph and Twitter Card Support
+* Spectre CSS included in header.php
+* Zepto lightweight jQuery alternative supported
 
 ## Page Speed
 
