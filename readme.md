@@ -1,7 +1,9 @@
-# Grace House Website
-http://gracehouselongview.com/dev/
+# Blank Website
 
-This commit has blank php files which makes it suitable to use a lot of these files on the next site
+## Live Example Site using this framework.
+http://gracehouselongview.com/index.php
+
+This commit has blank php files which makes it suitable to these files on your next site
 
 ## Page Speed
 
