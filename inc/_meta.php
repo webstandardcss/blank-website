@@ -40,7 +40,7 @@
 
     <!-- Geocode data -->
     <meta name="DC.title" content="<?php echo $siteName; ?>" />
-    <meta name="geo.region" content="US-TX" />
-    <meta name="geo.placename" content="Longview" />
-    <meta name="geo.position" content="32.4304919, -94.7990983" />
-    <meta name="ICBM" content="32.4304919, -94.7990983" />
+    <meta name="geo.region" content="<?php echo $geoRegion; ?>" />
+    <meta name="geo.placename" content="<?php echo $geoPlacename; ?>" />
+    <meta name="geo.position" content="<?php echo $geoPositionLat; ?>, <?php echo $geoPositionLong; ?>" />
+    <meta name="ICBM" content="<?php echo $geoPositionLat; ?>, <?php echo $geoPositionLong; ?>" />

@@ -10,7 +10,15 @@ $siteGoogleURL = "https://plus.google.com/1111111";
 // $siteHost = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://" . $_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI];
 $siteHost = "http://" . $_SERVER['HTTP_HOST'];
 $pageURL = $siteHost . $_SERVER['REQUEST_URI'];
-$pageImage = $siteHost . "/images/logo-outline.png";
+$pageImage = $siteHost . "/images/logo.png";
+
+// Geocode data
+$geoRegion = "US-TX";
+$geoPlacename = "Longview";
+$geoPositionLat = "32.4304919";
+$geoPositionLong = "-94.7990983";
+
+// Page Time Code
 $lastModified = @filemtime($pageURL);
 if($lastModified == NULL)
     // $lastModified = filemtime(utf8_decode($pageURL));$lastModified = filemtime(utf8_decode($pageURL));
