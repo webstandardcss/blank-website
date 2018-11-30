@@ -5,14 +5,14 @@ http://gracehouselongview.com/index.php
 
 ## This repo has blank php files suitable to use on your next site.
 
-* 16.8KB zip file (The demo image roughly the same size as all of the code)
+* [16.8KB zip file](https://github.com/webstandardcss/blank-website/archive/master.zip) (The demo image roughly the same size as all of the code)
 * Centralized configuration 
-* Custom page title
-* Custom meta tags for each page
-* Use PHP config variables throughout your pages
+* Custom [page title](index.php)
+* Custom [meta tags](inc/_meta.php) for each page
+* Use PHP [config variables](inc/config.php) throughout your pages
 * Open Graph and Twitter Card Support
-* Spectre CSS included in header.php
-* Zepto lightweight jQuery alternative supported
+* [Spectre CSS](https://picturepan2.github.io/spectre/getting-started.html) included in header.php 
+* [Zepto](https://zeptojs.com/) lightweight jQuery alternative supported
 
 ## Page Speed
 
