@@ -5,7 +5,7 @@ http://gracehouselongview.com/index.php
 
 ## This repo has blank php files suitable to use on your next site.
 
-* [16.8KB zip file](https://github.com/webstandardcss/blank-website/archive/master.zip) (The demo image roughly the same size as all of the code)
+* Tiny [zip file](https://github.com/webstandardcss/blank-website/archive/master.zip)
 * Centralized configuration 
 * Custom [page title](index.php)
 * Custom [meta tags](inc/_meta.php) for each page
